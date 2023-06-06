@@ -1,0 +1,33 @@
+   87  git config
+   88  touch comandos.txt main.js index.html
+   89  git status
+   90  git commit -m "commit 01 de IvanBustamante"
+   91  git push origin main
+   92  git init
+   93  git add .
+   94  git status
+   95  git commit -m "commit 01 de IvanBustamante"
+   96  git push origin main
+   97  git checkout main
+   98  git checkout -b feature
+   99  mkdir Hardware Software SeguridadInformatica
+  100  cd Hardware/
+  101  touch resumen.txt
+  102  cd ..
+  103  cd Software/
+  104  touch resumen.txt
+  105  cd ..
+  106  cd SeguridadInformatica/
+  107  touch resumen.txt
+  108  cd ..
+  109  ls
+  110  git add .
+  111  git status
+  112  git commit -m "commit 02 de IvanBustamante"
+  113  git push origin feature
+  114  git branch
+  115  git checkout main
+  116  mv main.js resumenHardware.txt
+  117  mv index.html resumenSoftware.txt
+  118  histoty 50
+  119  history 50

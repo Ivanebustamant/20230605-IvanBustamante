@@ -1,0 +1,3 @@
+RAM 
+ROM
+Disco Duro o Disco de estado solido
